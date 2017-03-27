@@ -8,7 +8,7 @@ output:
   pdf_document: default
 ---
 
-##Downloading S&P500 Data, calculate log returns, volatility and plot Volatility Decay.
+## Downloading S&P500 Data, calculate log returns, volatility and plot Volatility Decay
 
 ### Time Series Package.
 

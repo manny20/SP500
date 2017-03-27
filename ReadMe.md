@@ -2,7 +2,7 @@
 Emmanuel Farrugia  
 March 27, 2017  
 
-##Downloading S&P500 Data, calculate log returns, volatility and plot Volatility Decay.
+## Downloading S&P500 Data, calculate log returns, volatility and plot Volatility Decay
 
 ### Time Series Package.
 
