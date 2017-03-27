@@ -4,6 +4,8 @@ March 27, 2017
 
 ## Downloading S&P500 Data, calculate log returns, volatility and plot Volatility Decay
 
+Location of github:<https://github.com/manny20/SP500>.
+
 ### Time Series Package.
 
 Install 'tseries' package and load library. The 'tseries' is a package for time series analysis and computational finance. For more details on using it see, <https://cran.r-project.org/web/packages/tseries/index.html>.
